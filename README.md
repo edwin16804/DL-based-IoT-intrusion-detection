@@ -6,12 +6,12 @@ This project focuses on **intrusion detection in IoT devices** using **machine l
 ##  Models Used  
 We implemented and compared the following models:  
 
-### ** Deep Learning Models**  
+### **Deep Learning Models**  
 - **LSTM (Long Short-Term Memory)** – Best for sequential data (Achieved **99.89% accuracy**).  
 - **GRU (Gated Recurrent Unit)** – Similar to LSTM but computationally more efficient (**98.69% accuracy**).  
 - **Deep CNN (Convolutional Neural Network)** – Extracts spatial patterns from network traffic (**98.34% accuracy**).  
 
-### ** Machine Learning Models**  
+### **Machine Learning Models**  
 - **Decision Tree** – Simple yet effective rule-based classification (**99.37% accuracy**).  
 - **XGBoost (Extreme Gradient Boosting)** – Fast and accurate boosting algorithm (**99.30% accuracy**).  
 
